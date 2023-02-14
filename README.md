@@ -1,3 +1,3 @@
 # School-Final-Project
-Final project for operating systems course
-The purpose of this project was to have each snake wander through a randomized maze and try to find the exit.
+Final project for operating systems course.
+The objective of the program was to make the “travellers” or “snakes” move independently on their own through the maze all while utilizing the use of threads and mutex locks.
